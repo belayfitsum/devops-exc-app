@@ -1,2 +1,8 @@
+# Project overview
 Devops excersise and real infrastructure development tutorial
-with devops practises. 
+with devops practises.
+# Dependencies
+python, node.js etc
+
+#Quick start
+#Important commands 
