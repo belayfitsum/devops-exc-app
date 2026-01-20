@@ -5,4 +5,6 @@ with devops practises.
 python, node.js etc
 
 #Quick start
-#Important commands 
+#Important commands
+#Important Notes
+#Deployment Server 
